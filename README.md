@@ -7,3 +7,5 @@ Simple budget manager with options to:
 - View the summary of a specified month or tie period.
 
 I might change interface to a graphical one in future.
+
+It was my first project that I've done just 2 months after I started progamming
